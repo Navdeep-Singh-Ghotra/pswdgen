@@ -1,4 +1,4 @@
-import string;
+""" import string;
 import random;
 
 #  Get lenght of password
@@ -38,4 +38,4 @@ for i in range(length):
     password.append(randomchar)
 
 print('lenght is :',length)
-print("password is :", "".join(password))
+print("password is :", "".join(password)) """
